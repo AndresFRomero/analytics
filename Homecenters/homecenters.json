@@ -1,0 +1,52 @@
+{
+	"Calle 80": {
+		"Direccion": "Ak 68 # 80 - 77",
+		"lat": 4.685041,
+		"lng": -74.0811259
+	},
+	"Calle 170": {
+		"Direccion": "Autopista Nte. #175 - 50",
+		"lat": 4.755462,
+		"lng": -74.0492417
+	},
+	"Avenida 68 sur": {
+		"Direccion": "Cra 68 # 37-37 Sur",
+		"lat": 4.604073,
+		"lng": -74.1324518
+	},
+	"Dorado": {
+		"Direccion": "Calle 50 # 82 - 55",
+		"lat": 4.679019,
+		"lng": -74.1178289
+	},
+	"CC Mallplaza NQS": {
+		"Direccion": "Cl. 19 # 28 - 80",
+		"lat": 4.618953,
+		"lng": -74.0887638
+	},
+	"Cedritos": {
+		"Direccion": "Ak. 9 # 152a - 23",
+		"lat": 4.730568,
+		"lng": -74.0349332
+	},
+	"Suba": {
+		"Direccion": "Avenida Carrera 104 # 148 - 07",
+		"lat": 4.751429,
+		"lng": -74.0949194
+	},
+	"Tintal": {
+		"Direccion": "Calle 10B # 86 - 50",
+		"lat": 4.6515264,
+		"lng": -74.148429
+	},
+	"Soacha CC Mercurio": {
+		"Direccion": "Cra. 7 # 32 - 35 Local 108",
+		"lat": 4.588613,
+		"lng": -74.205057
+	},
+	"Cajica": {
+		"Direccion": "Km 27 Vía Chía - Cajicá",
+		"lat": 4.8921433,
+		"lng": -74.0346673
+	}
+}

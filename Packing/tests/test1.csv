@@ -1,0 +1,6 @@
+ID;Nombre;Grupo;Largo(cm) ;Alto(cm);Ancho(cm);Peso(kg);Und;Rotación eje z;Rotación eje x;Limite de peso sin rotación;Cara lateral arriba ;Cara Frotal arriba
+0;Bloque Estandar # 4 x 157 und;1;10;20;30;5;3;1;0;75;0;0
+1;Bloque Estandar # 5 x 157 und;1;12;20;30;5.5;2;1;0;82.5;0;0
+2;"Broca Sds Plus - 1/4"" X 8""";1;25;15;20;1;2;1;0;15;0;0
+3;Cemento Fuerte x 50kg - Gris Uso General;1;14;14;45;50;54;1;0;750;0;0
+4;Guantes Nailon C / Poliu M;1;16;1;17;0.02;1;1;0;0.3;0;0

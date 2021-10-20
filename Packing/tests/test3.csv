@@ -1,0 +1,28 @@
+ID;Nombre;Grupo;Largo(cm) ;Alto(cm);Ancho(cm);Peso(kg);Und;Rotación eje z;Rotación eje x;Limite de peso sin rotación;Cara lateral arriba ;Cara Frotal arriba
+0;"Disco Corte Fino T41 4-1/2"" X0.045""X7/8""";1;25;5;20;5;10;1;0;75;0;0
+1;"Disco Corte Fino T41 4-1/2"" X0.045""X7/8""";1;25;5;20;5;16;1;0;75;0;0
+2;"Disco Abrasiv Desbaste T27 4-1/2"" X 1/4""";1;25;5;20;5;10;1;0;75;0;0
+3;"Disco Corte Fino T41 7"" X 0.055"" X 7/8""";1;25;5;20;5;20;1;0;75;0;0
+4;"Tornillo Drywall 8 x 1"" x 500 un";1;3;1;1;0.8;1;1;0;12;0;0
+5;Alambre Negro Recocido C17 X 30 kg;1;35;30;35;30;2;1;0;450;0;0
+6;Lavaplatos Radiante E 60 x 40 cm;1;60;15;40;1.5;2;1;0;22.5;0;0
+7;Bronco Cubiertas Gris 1/4 x 0.25 gal;1;12;13;12;1.23;2;1;0;18.45;0;0
+8;"Placa de Yeso 1/2"" - Standard";1;244;1;122;20.24;15;1;0;303.6;0;0
+9;"Disco Abrasivo 14"" X 7/64 ""x 1""";1;25;1;20;1;1;1;0;15;0;0
+10;"Buje Sanitario 3"" x 2""";1;8;7;8;0.25;6;1;0;3.75;0;0
+11;Sikasil E Blanco 280ml;1;22;6;6;0.71;3;1;0;10.65;0;0
+12;"Disco Corte Fino T41 7"" X 0.055"" X 7/8""";1;25;5;20;5;5;1;0;75;0;0
+13;Meson Vital Basic 100 x 52 Izq Mezclador;1;100;14;52;3.3;1;1;0;49.5;0;0
+14;Sikasil Universal Transparente 280 mL;1;6;23;6;0.28;2;1;0;4.2;0;0
+15;"Tubo PVC Sanitaria 1 1/2"" X 6m";1;600;5;5;3.84;5;1;0;57.6;0;0
+16;Segueta Manual Bimetal Simple 24D X 10Pc;1;35;15;25;5;1;1;0;75;0;0
+17;Bronco Poliester Rollo x 10 m;1;100;12;12;0.33;2;1;0;4.95;0;0
+18;Segueta Manual Bimetal Simple 18D X 10Pc;1;35;15;25;5;2;1;0;75;0;0
+19;Sikasil E Transparente 280 ml;1;22;6;6;0.71;2;1;0;10.65;0;0
+20;Bronco Cubiertas Gris GalÃ³n x 1 gal;1;19;20;19;4.78;2;1;0;71.7;0;0
+21;Sikaflex Universal Blanco x 300 mL;1;23;6;6;0.36;1;1;0;5.4;0;0
+22;"Balinera Para Fresa Ruteadora 3/16 x 1/2""";1;7;2;14;0.29;6;1;0;4.35;0;0
+23;"Tubo Conduit 1/2"" - 3m";1;300;3;3;0.45;25;1;0;6.75;0;0
+24;Bloquelon 80 x 23 x 8 x 60 unidades;1;100;80;120;540;3;1;0;8100;0;0
+25;"Disco Abrasivo Desbaste T27 7"" X 1/4""";1;25;5;20;5;6;1;0;75;0;0
+26;"Tubo PVC VentilaciÃ³n y Lluvia 3"" x 6m";1;600;9;9;7.62;3;1;0;114.3;0;0

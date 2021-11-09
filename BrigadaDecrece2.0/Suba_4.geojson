@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0856245, 4.7231979] },
+      "properties": {
+        "id": 31661,
+        "name": "Luis angel Sierra cardenas",
+        "order": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0864303, 4.7207079] },
+      "properties": {
+        "id": 5626,
+        "name": "johan sebastian garzon ortiz",
+        "order": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0912124, 4.7194884] },
+      "properties": {
+        "id": 10102,
+        "name": "Claudia Patricia Fandi\u00f1o Ram\u00edrez",
+        "order": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.0923343, 4.7205642] },
+      "properties": {
+        "id": 12784,
+        "name": "mauricio santamaria sanchez",
+        "order": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.0856245, 4.7231979],
+          [-74.0864303, 4.7207079],
+          [-74.0912124, 4.7194884],
+          [-74.0923343, 4.7205642]
+        ]
+      },
+      "properties": { "Route": "Suba_4" }
+    }
+  ]
+}

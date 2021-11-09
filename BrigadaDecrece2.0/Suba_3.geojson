@@ -1,0 +1,220 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1017652, 4.7302712] },
+      "properties": { "id": 5826, "name": "ovidio mesa", "order": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1024727, 4.7304804] },
+      "properties": {
+        "id": 21678,
+        "name": "Mar\u00eda Sther Mart\u00ednez Siprian",
+        "order": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.101954, 4.735387] },
+      "properties": { "id": 25689, "name": "aureliano vaca", "order": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1035348, 4.7418568] },
+      "properties": { "id": 16999, "name": "Nidia perez", "order": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1069907, 4.7387496] },
+      "properties": { "id": 4383, "name": "jesus garzon", "order": 5 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1077149, 4.7411785] },
+      "properties": {
+        "id": 22423,
+        "name": "Freddy Aldemar Daza Garc\u00eda",
+        "order": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1108345, 4.7415604] },
+      "properties": { "id": 5723, "name": "Isabel Ramirez", "order": 7 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1111122, 4.7416954] },
+      "properties": { "id": 5741, "name": "julio Daza", "order": 8 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1130537, 4.7429501] },
+      "properties": { "id": 23437, "name": "Iv\u00e1n Giraldo", "order": 9 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1141012, 4.7409005] },
+      "properties": { "id": 4181, "name": "Baudelino Acosta", "order": 10 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1151067, 4.7430567] },
+      "properties": { "id": 20547, "name": "Maria nelsy Prieto", "order": 11 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1168106, 4.744663] },
+      "properties": { "id": 4444, "name": "Ricardo Gutierrez", "order": 12 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1186444, 4.7447063] },
+      "properties": { "id": 7760, "name": "Julio Ram\u00edrez", "order": 13 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1174672, 4.7426128] },
+      "properties": { "id": 3285, "name": "deivid parra", "order": 14 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1224967, 4.7425052] },
+      "properties": { "id": 26331, "name": "Elia Rubio", "order": 15 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1233601, 4.7429355] },
+      "properties": { "id": 28107, "name": "carmenza malagon", "order": 16 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.124039, 4.7414408] },
+      "properties": { "id": 15995, "name": "Walter avello", "order": 17 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1264059, 4.7416336] },
+      "properties": {
+        "id": 32247,
+        "name": "jose Mardoqueo Avila sotelo",
+        "order": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1262897, 4.7416233] },
+      "properties": { "id": 3740, "name": "marco Antonio vega", "order": 19 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1240664, 4.742679] },
+      "properties": {
+        "id": 26576,
+        "name": "Leidy Katherine Garcia Garcia",
+        "order": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1227261, 4.7457715] },
+      "properties": {
+        "id": 23463,
+        "name": "dep\u00f3sito y ferreter\u00eda El manantial sas",
+        "order": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1199919, 4.7475179] },
+      "properties": { "id": 3869, "name": "gilio Rodr\u00edguez", "order": 22 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1199481, 4.7507472] },
+      "properties": {
+        "id": 3948,
+        "name": "Nancy ramos villarraga",
+        "order": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1196035, 4.7474068] },
+      "properties": { "id": 4239, "name": "July Jim\u00e9nez", "order": 24 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1201366, 4.7465863] },
+      "properties": {
+        "id": 21571,
+        "name": "Herlinda Avenda\u00f1o",
+        "order": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1184017, 4.7463699] },
+      "properties": { "id": 35014, "name": "ferreteria manantial", "order": 26 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1181586, 4.7473169] },
+      "properties": {
+        "id": 21604,
+        "name": "Daniela murillo garcia",
+        "order": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1165361, 4.7471048] },
+      "properties": { "id": 5277, "name": "Julio Martinez", "order": 28 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-74.1166178, 4.7471743] },
+      "properties": { "id": 22741, "name": "Adriana Urdaneta", "order": 29 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.1017652, 4.7302712],
+          [-74.1024727, 4.7304804],
+          [-74.101954, 4.735387],
+          [-74.1035348, 4.7418568],
+          [-74.1069907, 4.7387496],
+          [-74.1077149, 4.7411785],
+          [-74.1108345, 4.7415604],
+          [-74.1111122, 4.7416954],
+          [-74.1130537, 4.7429501],
+          [-74.1141012, 4.7409005],
+          [-74.1151067, 4.7430567],
+          [-74.1168106, 4.744663],
+          [-74.1186444, 4.7447063],
+          [-74.1174672, 4.7426128],
+          [-74.1224967, 4.7425052],
+          [-74.1233601, 4.7429355],
+          [-74.124039, 4.7414408],
+          [-74.1264059, 4.7416336],
+          [-74.1262897, 4.7416233],
+          [-74.1240664, 4.742679],
+          [-74.1227261, 4.7457715],
+          [-74.1199919, 4.7475179],
+          [-74.1199481, 4.7507472],
+          [-74.1196035, 4.7474068],
+          [-74.1201366, 4.7465863],
+          [-74.1184017, 4.7463699],
+          [-74.1181586, 4.7473169],
+          [-74.1165361, 4.7471048],
+          [-74.1166178, 4.7471743]
+        ]
+      },
+      "properties": { "Route": "Suba_3" }
+    }
+  ]
+}

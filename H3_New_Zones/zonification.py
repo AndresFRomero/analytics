@@ -1,13 +1,13 @@
 # import kml2geojson
 # import json
-# jsonDict = kml2geojson.main.convert('SaoPaulo.kml')[0]
+# jsonDict = kml2geojson.main.convert('mc_comunas.kmz')[0]
 
-# with open('SaoPaulo.geojson', 'w') as fp:
+# with open('comunas_cali.geojson', 'w') as fp:
 #     json.dump(jsonDict, fp)
 
 
 import geopandas
 
-shp_file = geopandas.read_file('MGN_MPIO_POLITICO.shp')
+shp_file = geopandas.read_file('mc_comunas.shp')
 
-shp_file.to_file('myshpfile.geojson', driver='GeoJSON')
+shp_file.to_file('mc_comunas.geojson', driver='GeoJSON')

@@ -1,0 +1,502 @@
+,identificacion,codigo,nombre,r8_h3
+0,Comuna 1,01,Popular,886619db07fffff
+1,Comuna 1,01,Popular,886619db3dfffff
+2,Comuna 1,01,Popular,886619db39fffff
+3,Comuna 2,02,Santa Cruz,886619db2bfffff
+4,Comuna 2,02,Santa Cruz,886619db05fffff
+5,Comuna 3,03,Manrique,886619d959fffff
+6,Comuna 3,03,Manrique,886619db37fffff
+7,Comuna 3,03,Manrique,886619db33fffff
+8,Comuna 3,03,Manrique,886619db31fffff
+9,Comuna 3,03,Manrique,886619db35fffff
+10,Comuna 3,03,Manrique,886619d95dfffff
+11,Comuna 4,04,Aranjuez,886619db23fffff
+12,Comuna 4,04,Aranjuez,886619d94bfffff
+13,Comuna 4,04,Aranjuez,886619d941fffff
+14,Comuna 4,04,Aranjuez,886619d949fffff
+15,Comuna 4,04,Aranjuez,886619d94dfffff
+16,Comuna 4,04,Aranjuez,886619db27fffff
+17,Comuna 4,04,Aranjuez,886619d947fffff
+18,Comuna 4,04,Aranjuez,886619d943fffff
+19,Comuna 5,05,Castilla,886618acdbfffff
+20,Comuna 5,05,Castilla,886619db25fffff
+21,Comuna 5,05,Castilla,886619d96bfffff
+22,Comuna 5,05,Castilla,886619db2dfffff
+23,Comuna 5,05,Castilla,886619d945fffff
+24,Comuna 5,05,Castilla,886619db67fffff
+25,Comuna 5,05,Castilla,886618ac9bfffff
+26,Comuna 5,05,Castilla,886619db21fffff
+27,Comuna 5,05,Castilla,886619db29fffff
+28,Comuna 6,06,Doce de Octubre,886618acd7fffff
+29,Comuna 6,06,Doce de Octubre,886618ac99fffff
+30,Comuna 6,06,Doce de Octubre,886618ac9dfffff
+31,Comuna 6,06,Doce de Octubre,886618acd1fffff
+32,Comuna 6,06,Doce de Octubre,886618acd3fffff
+33,Comuna 6,06,Doce de Octubre,886618ac91fffff
+34,Comuna 7,07,Robledo,886618acb9fffff
+35,Comuna 7,07,Robledo,886619d96dfffff
+36,Comuna 7,07,Robledo,886618ac97fffff
+37,Comuna 7,07,Robledo,886618acbbfffff
+38,Comuna 7,07,Robledo,886619d961fffff
+39,Comuna 7,07,Robledo,886618ac95fffff
+40,Comuna 7,07,Robledo,886618ac83fffff
+41,Comuna 7,07,Robledo,886618acb1fffff
+42,Comuna 7,07,Robledo,886618ac93fffff
+43,Comuna 7,07,Robledo,886619d969fffff
+44,Comuna 8,08,Villa Hermosa,886619d827fffff
+45,Comuna 8,08,Villa Hermosa,886619d951fffff
+46,Comuna 8,08,Villa Hermosa,886619d91bfffff
+47,Comuna 8,08,Villa Hermosa,886619d955fffff
+48,Comuna 8,08,Villa Hermosa,886619d957fffff
+49,Comuna 8,08,Villa Hermosa,886619d91dfffff
+50,Comuna 8,08,Villa Hermosa,886619d9cdfffff
+51,Comuna 8,08,Villa Hermosa,886619d919fffff
+52,Comuna 9,09,Buenos Aires,886619d913fffff
+53,Comuna 9,09,Buenos Aires,886619d915fffff
+54,Comuna 9,09,Buenos Aires,886619d911fffff
+55,Comuna 9,09,Buenos Aires,886619d933fffff
+56,Comuna 9,09,Buenos Aires,886619d93bfffff
+57,Comuna 9,09,Buenos Aires,886619d917fffff
+58,Comuna 10,10,La Candelaria,886619d901fffff
+59,Comuna 10,10,La Candelaria,886619d92bfffff
+60,Comuna 10,10,La Candelaria,886619d931fffff
+61,Comuna 10,10,La Candelaria,886619d903fffff
+62,Comuna 10,10,La Candelaria,886619d90dfffff
+63,Comuna 10,10,La Candelaria,886619d907fffff
+64,Comuna 10,10,La Candelaria,886619d90bfffff
+65,Comuna 10,10,La Candelaria,886619d909fffff
+66,Comuna 10,10,La Candelaria,886619d905fffff
+67,Comuna 10,10,La Candelaria,886619d93dfffff
+68,Comuna 10,10,La Candelaria,886619d939fffff
+69,Comuna 11,11,Laureles Estadio,8866183619fffff
+70,Comuna 11,11,Laureles Estadio,886618365bfffff
+71,Comuna 11,11,Laureles Estadio,8866183653fffff
+72,Comuna 11,11,Laureles Estadio,886619d929fffff
+73,Comuna 11,11,Laureles Estadio,886619d921fffff
+74,Comuna 11,11,Laureles Estadio,886618361dfffff
+75,Comuna 11,11,Laureles Estadio,886619d967fffff
+76,Comuna 11,11,Laureles Estadio,886619d92dfffff
+77,Comuna 11,11,Laureles Estadio,886619d963fffff
+78,Comuna 11,11,Laureles Estadio,886619d965fffff
+79,Comuna 11,11,Laureles Estadio,886619d925fffff
+80,Comuna 12,12,La América,8866183657fffff
+81,Comuna 12,12,La América,8866183651fffff
+82,Comuna 12,12,La América,8866183659fffff
+83,Comuna 12,12,La América,886618acb3fffff
+84,Comuna 13,13,San Javier,8866183655fffff
+85,Comuna 13,13,San Javier,8866183609fffff
+86,Comuna 13,13,San Javier,886618360dfffff
+87,Comuna 13,13,San Javier,886618365dfffff
+88,Comuna 13,13,San Javier,886618360bfffff
+89,Comuna 13,13,San Javier,8866183601fffff
+90,Comuna 14,14,El Poblado,8866183691fffff
+91,Comuna 14,14,El Poblado,886619d9a5fffff
+92,Comuna 14,14,El Poblado,8866183695fffff
+93,Comuna 14,14,El Poblado,88661836d9fffff
+94,Comuna 14,14,El Poblado,886618369bfffff
+95,Comuna 14,14,El Poblado,886619d935fffff
+96,Comuna 14,14,El Poblado,886619d9e5fffff
+97,Comuna 14,14,El Poblado,886619d9e7fffff
+98,Comuna 14,14,El Poblado,88661836ddfffff
+99,Comuna 14,14,El Poblado,886618369dfffff
+100,Comuna 14,14,El Poblado,88661836d7fffff
+101,Comuna 14,14,El Poblado,88661836dbfffff
+102,Comuna 14,14,El Poblado,886619d9adfffff
+103,Comuna 14,14,El Poblado,88661836d5fffff
+104,Comuna 14,14,El Poblado,8866183699fffff
+105,Comuna 14,14,El Poblado,886619d937fffff
+106,Comuna 14,14,El Poblado,88661836d3fffff
+107,Comuna 14,14,El Poblado,88661836d1fffff
+108,Comuna 14,14,El Poblado,8866183693fffff
+109,Comuna 16,16,Belén,886619d923fffff
+110,Comuna 16,16,Belén,88661836e3fffff
+111,Comuna 16,16,Belén,8866183613fffff
+112,Comuna 16,16,Belén,88661836cdfffff
+113,Comuna 16,16,Belén,8866183615fffff
+114,Comuna 16,16,Belén,886619d927fffff
+115,Comuna 16,16,Belén,886618361bfffff
+116,Comuna 16,16,Belén,8866183611fffff
+117,Comuna 16,16,Belén,88661836e9fffff
+118,Comuna 16,16,Belén,88661836ebfffff
+119,Comuna 16,16,Belén,88661836c5fffff
+120,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad19fffff
+121,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad33fffff
+122,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618af33fffff
+123,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad63fffff
+124,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ac2dfffff
+125,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832d5fffff
+126,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832dbfffff
+127,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad07fffff
+128,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,8866183291fffff
+129,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618adebfffff
+130,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad57fffff
+131,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad11fffff
+132,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618329bfffff
+133,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ade1fffff
+134,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad43fffff
+135,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ada1fffff
+136,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832d7fffff
+137,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad05fffff
+138,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad51fffff
+139,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ada5fffff
+140,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,8866183297fffff
+141,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad69fffff
+142,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ada7fffff
+143,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832ddfffff
+144,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad45fffff
+145,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ac25fffff
+146,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad55fffff
+147,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad17fffff
+148,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad0bfffff
+149,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad21fffff
+150,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad1dfffff
+151,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618adadfffff
+152,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618adcdfffff
+153,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad59fffff
+154,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad5bfffff
+155,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad01fffff
+156,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad37fffff
+157,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618adedfffff
+158,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618af37fffff
+159,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad47fffff
+160,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad4bfffff
+161,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad1bfffff
+162,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ac27fffff
+163,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ac67fffff
+164,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad13fffff
+165,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ac21fffff
+166,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618376dfffff
+167,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ade7fffff
+168,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad39fffff
+169,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832d1fffff
+170,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad23fffff
+171,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad61fffff
+172,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832cbfffff
+173,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832d3fffff
+174,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ade5fffff
+175,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad29fffff
+176,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad3bfffff
+177,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,8866183769fffff
+178,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad35fffff
+179,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,8866183293fffff
+180,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad03fffff
+181,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad41fffff
+182,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad53fffff
+183,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ade3fffff
+184,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832c9fffff
+185,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad2bfffff
+186,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad15fffff
+187,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad31fffff
+188,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad5dfffff
+189,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ade9fffff
+190,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,8866183299fffff
+191,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,88661832d9fffff
+192,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ada9fffff
+193,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad0dfffff
+194,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad09fffff
+195,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad6bfffff
+196,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618329dfffff
+197,Corregimiento 50,50,Corregimiento de San Sebastián de Palmitas,886618ad3dfffff
+198,Corregimiento 60,60,Corregimiento de San Cristóbal,886618aca9fffff
+199,Corregimiento 60,60,Corregimiento de San Cristóbal,886618add9fffff
+200,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adc9fffff
+201,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adcbfffff
+202,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adbdfffff
+203,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183669fffff
+204,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ada3fffff
+205,Corregimiento 60,60,Corregimiento de San Cristóbal,886618375dfffff
+206,Corregimiento 60,60,Corregimiento de San Cristóbal,886618add7fffff
+207,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adb1fffff
+208,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183759fffff
+209,Corregimiento 60,60,Corregimiento de San Cristóbal,886618366bfffff
+210,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183641fffff
+211,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adb3fffff
+212,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac8dfffff
+213,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad9dfffff
+214,Corregimiento 60,60,Corregimiento de San Cristóbal,886618addbfffff
+215,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad99fffff
+216,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac35fffff
+217,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adddfffff
+218,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad8dfffff
+219,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183663fffff
+220,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac37fffff
+221,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad95fffff
+222,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adc5fffff
+223,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad83fffff
+224,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad85fffff
+225,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183649fffff
+226,Corregimiento 60,60,Corregimiento de San Cristóbal,886618add1fffff
+227,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac81fffff
+228,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adb7fffff
+229,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac87fffff
+230,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac85fffff
+231,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183643fffff
+232,Corregimiento 60,60,Corregimiento de San Cristóbal,886618aca3fffff
+233,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad89fffff
+234,Corregimiento 60,60,Corregimiento de San Cristóbal,886618aca7fffff
+235,Corregimiento 60,60,Corregimiento de San Cristóbal,886618aca5fffff
+236,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad81fffff
+237,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ace5fffff
+238,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ace1fffff
+239,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad8bfffff
+240,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adc1fffff
+241,Corregimiento 60,60,Corregimiento de San Cristóbal,886618acd5fffff
+242,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adbbfffff
+243,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adb5fffff
+244,Corregimiento 60,60,Corregimiento de San Cristóbal,886618acbdfffff
+245,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ac8bfffff
+246,Corregimiento 60,60,Corregimiento de San Cristóbal,886618acabfffff
+247,Corregimiento 60,60,Corregimiento de San Cristóbal,886618366dfffff
+248,Corregimiento 60,60,Corregimiento de San Cristóbal,886618acb5fffff
+249,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183645fffff
+250,Corregimiento 60,60,Corregimiento de San Cristóbal,886618add5fffff
+251,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183647fffff
+252,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad93fffff
+253,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183665fffff
+254,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad87fffff
+255,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad97fffff
+256,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad91fffff
+257,Corregimiento 60,60,Corregimiento de San Cristóbal,886618acadfffff
+258,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adb9fffff
+259,Corregimiento 60,60,Corregimiento de San Cristóbal,886618374bfffff
+260,Corregimiento 60,60,Corregimiento de San Cristóbal,886618add3fffff
+261,Corregimiento 60,60,Corregimiento de San Cristóbal,886618aca1fffff
+262,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adabfffff
+263,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adc7fffff
+264,Corregimiento 60,60,Corregimiento de San Cristóbal,886618364dfffff
+265,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183661fffff
+266,Corregimiento 60,60,Corregimiento de San Cristóbal,8866183749fffff
+267,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ace3fffff
+268,Corregimiento 60,60,Corregimiento de San Cristóbal,886618adc3fffff
+269,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ace7fffff
+270,Corregimiento 60,60,Corregimiento de San Cristóbal,886618ad9bfffff
+271,Corregimiento 60,60,Corregimiento de San Cristóbal,886618acb7fffff
+272,Corregimiento 70,70,Corregimiento de Altavista,886618344bfffff
+273,Corregimiento 70,70,Corregimiento de Altavista,886618362bfffff
+274,Corregimiento 70,70,Corregimiento de Altavista,8866183751fffff
+275,Corregimiento 70,70,Corregimiento de Altavista,88661836edfffff
+276,Corregimiento 70,70,Corregimiento de Altavista,8866183605fffff
+277,Corregimiento 70,70,Corregimiento de Altavista,8866183633fffff
+278,Corregimiento 70,70,Corregimiento de Altavista,886618363dfffff
+279,Corregimiento 70,70,Corregimiento de Altavista,886618371bfffff
+280,Corregimiento 70,70,Corregimiento de Altavista,88661836adfffff
+281,Corregimiento 70,70,Corregimiento de Altavista,88661836e1fffff
+282,Corregimiento 70,70,Corregimiento de Altavista,8866183607fffff
+283,Corregimiento 70,70,Corregimiento de Altavista,886618345dfffff
+284,Corregimiento 70,70,Corregimiento de Altavista,8866183639fffff
+285,Corregimiento 70,70,Corregimiento de Altavista,8866183617fffff
+286,Corregimiento 70,70,Corregimiento de Altavista,8866183667fffff
+287,Corregimiento 70,70,Corregimiento de Altavista,8866183627fffff
+288,Corregimiento 70,70,Corregimiento de Altavista,886618363bfffff
+289,Corregimiento 70,70,Corregimiento de Altavista,8866183603fffff
+290,Corregimiento 70,70,Corregimiento de Altavista,8866183621fffff
+291,Corregimiento 70,70,Corregimiento de Altavista,8866183625fffff
+292,Corregimiento 70,70,Corregimiento de Altavista,8866183449fffff
+293,Corregimiento 70,70,Corregimiento de Altavista,886618362dfffff
+294,Corregimiento 70,70,Corregimiento de Altavista,8866183451fffff
+295,Corregimiento 70,70,Corregimiento de Altavista,8866183443fffff
+296,Corregimiento 70,70,Corregimiento de Altavista,88661836e5fffff
+297,Corregimiento 70,70,Corregimiento de Altavista,886618344dfffff
+298,Corregimiento 70,70,Corregimiento de Altavista,88661836e7fffff
+299,Corregimiento 70,70,Corregimiento de Altavista,88661836a9fffff
+300,Corregimiento 70,70,Corregimiento de Altavista,8866183459fffff
+301,Corregimiento 70,70,Corregimiento de Altavista,8866183441fffff
+302,Corregimiento 70,70,Corregimiento de Altavista,8866183753fffff
+303,Corregimiento 70,70,Corregimiento de Altavista,8866183635fffff
+304,Corregimiento 70,70,Corregimiento de Altavista,886618345bfffff
+305,Corregimiento 70,70,Corregimiento de Altavista,8866183631fffff
+306,Corregimiento 70,70,Corregimiento de Altavista,8866183453fffff
+307,Corregimiento 70,70,Corregimiento de Altavista,8866183637fffff
+308,Corregimiento 70,70,Corregimiento de Altavista,8866183623fffff
+309,Corregimiento 70,70,Corregimiento de Altavista,8866183629fffff
+310,Corregimiento 70,70,Corregimiento de Altavista,886618375bfffff
+311,Corregimiento 70,70,Corregimiento de Altavista,8866183447fffff
+312,Corregimiento 90,90,Corregimiento de Santa Elena,886619d82bfffff
+313,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9edfffff
+314,Corregimiento 90,90,Corregimiento de Santa Elena,886619d845fffff
+315,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9ebfffff
+316,Corregimiento 90,90,Corregimiento de Santa Elena,886619d81bfffff
+317,Corregimiento 90,90,Corregimiento de Santa Elena,886619db15fffff
+318,Corregimiento 90,90,Corregimiento de Santa Elena,886619d98dfffff
+319,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8a3fffff
+320,Corregimiento 90,90,Corregimiento de Santa Elena,886619d81dfffff
+321,Corregimiento 90,90,Corregimiento de Santa Elena,886619db19fffff
+322,Corregimiento 90,90,Corregimiento de Santa Elena,886619db13fffff
+323,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9a1fffff
+324,Corregimiento 90,90,Corregimiento de Santa Elena,886619db1bfffff
+325,Corregimiento 90,90,Corregimiento de Santa Elena,886619d841fffff
+326,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9dbfffff
+327,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9e1fffff
+328,Corregimiento 90,90,Corregimiento de Santa Elena,886619d815fffff
+329,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8adfffff
+330,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9c3fffff
+331,Corregimiento 90,90,Corregimiento de Santa Elena,886619d823fffff
+332,Corregimiento 90,90,Corregimiento de Santa Elena,886619d98bfffff
+333,Corregimiento 90,90,Corregimiento de Santa Elena,886619d83dfffff
+334,Corregimiento 90,90,Corregimiento de Santa Elena,886619d86dfffff
+335,Corregimiento 90,90,Corregimiento de Santa Elena,886619d857fffff
+336,Corregimiento 90,90,Corregimiento de Santa Elena,886619d865fffff
+337,Corregimiento 90,90,Corregimiento de Santa Elena,886619db3bfffff
+338,Corregimiento 90,90,Corregimiento de Santa Elena,886619d99bfffff
+339,Corregimiento 90,90,Corregimiento de Santa Elena,886619d805fffff
+340,Corregimiento 90,90,Corregimiento de Santa Elena,886619d821fffff
+341,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9d9fffff
+342,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9c5fffff
+343,Corregimiento 90,90,Corregimiento de Santa Elena,886619d831fffff
+344,Corregimiento 90,90,Corregimiento de Santa Elena,886619d80bfffff
+345,Corregimiento 90,90,Corregimiento de Santa Elena,886619d855fffff
+346,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9cbfffff
+347,Corregimiento 90,90,Corregimiento de Santa Elena,886619d861fffff
+348,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9a9fffff
+349,Corregimiento 90,90,Corregimiento de Santa Elena,886619d817fffff
+350,Corregimiento 90,90,Corregimiento de Santa Elena,886619d989fffff
+351,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9b1fffff
+352,Corregimiento 90,90,Corregimiento de Santa Elena,886619d84dfffff
+353,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9e3fffff
+354,Corregimiento 90,90,Corregimiento de Santa Elena,886619d825fffff
+355,Corregimiento 90,90,Corregimiento de Santa Elena,886619d863fffff
+356,Corregimiento 90,90,Corregimiento de Santa Elena,886619d867fffff
+357,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9c7fffff
+358,Corregimiento 90,90,Corregimiento de Santa Elena,886619d807fffff
+359,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9d3fffff
+360,Corregimiento 90,90,Corregimiento de Santa Elena,886619cb4dfffff
+361,Corregimiento 90,90,Corregimiento de Santa Elena,886619d803fffff
+362,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9e9fffff
+363,Corregimiento 90,90,Corregimiento de Santa Elena,886619d985fffff
+364,Corregimiento 90,90,Corregimiento de Santa Elena,886619d837fffff
+365,Corregimiento 90,90,Corregimiento de Santa Elena,886619d981fffff
+366,Corregimiento 90,90,Corregimiento de Santa Elena,886619d987fffff
+367,Corregimiento 90,90,Corregimiento de Santa Elena,886619d813fffff
+368,Corregimiento 90,90,Corregimiento de Santa Elena,886619d849fffff
+369,Corregimiento 90,90,Corregimiento de Santa Elena,886619da25fffff
+370,Corregimiento 90,90,Corregimiento de Santa Elena,886619d999fffff
+371,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9a3fffff
+372,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8e5fffff
+373,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8a1fffff
+374,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9c9fffff
+375,Corregimiento 90,90,Corregimiento de Santa Elena,886619d84bfffff
+376,Corregimiento 90,90,Corregimiento de Santa Elena,886619d983fffff
+377,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8a5fffff
+378,Corregimiento 90,90,Corregimiento de Santa Elena,886619d80dfffff
+379,Corregimiento 90,90,Corregimiento de Santa Elena,886619d86bfffff
+380,Corregimiento 90,90,Corregimiento de Santa Elena,886619db17fffff
+381,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9b5fffff
+382,Corregimiento 90,90,Corregimiento de Santa Elena,886619cb49fffff
+383,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9ddfffff
+384,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9d7fffff
+385,Corregimiento 90,90,Corregimiento de Santa Elena,886619d811fffff
+386,Corregimiento 90,90,Corregimiento de Santa Elena,886619db03fffff
+387,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9d1fffff
+388,Corregimiento 90,90,Corregimiento de Santa Elena,886619d869fffff
+389,Corregimiento 90,90,Corregimiento de Santa Elena,886619d833fffff
+390,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9c1fffff
+391,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9bdfffff
+392,Corregimiento 90,90,Corregimiento de Santa Elena,886619d82dfffff
+393,Corregimiento 90,90,Corregimiento de Santa Elena,886619d819fffff
+394,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8e7fffff
+395,Corregimiento 90,90,Corregimiento de Santa Elena,886619d99dfffff
+396,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9abfffff
+397,Corregimiento 90,90,Corregimiento de Santa Elena,886619d847fffff
+398,Corregimiento 90,90,Corregimiento de Santa Elena,886619d843fffff
+399,Corregimiento 90,90,Corregimiento de Santa Elena,886619d953fffff
+400,Corregimiento 90,90,Corregimiento de Santa Elena,886619d801fffff
+401,Corregimiento 90,90,Corregimiento de Santa Elena,886619d839fffff
+402,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8edfffff
+403,Corregimiento 90,90,Corregimiento de Santa Elena,886619d835fffff
+404,Corregimiento 90,90,Corregimiento de Santa Elena,886619d95bfffff
+405,Corregimiento 90,90,Corregimiento de Santa Elena,886619d809fffff
+406,Corregimiento 90,90,Corregimiento de Santa Elena,886619d829fffff
+407,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9a7fffff
+408,Corregimiento 90,90,Corregimiento de Santa Elena,886619da27fffff
+409,Corregimiento 90,90,Corregimiento de Santa Elena,886619d83bfffff
+410,Corregimiento 90,90,Corregimiento de Santa Elena,886619d8a9fffff
+411,Corregimiento 90,90,Corregimiento de Santa Elena,886619d9d5fffff
+412,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618374dfffff
+413,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618343bfffff
+414,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183737fffff
+415,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183731fffff
+416,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183735fffff
+417,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183719fffff
+418,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183553fffff
+419,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618351bfffff
+420,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183701fffff
+421,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618355bfffff
+422,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183425fffff
+423,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183703fffff
+424,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618373bfffff
+425,Corregimiento 80,80,Corregimiento de San Antonio de Prado,88661835cbfffff
+426,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183711fffff
+427,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618355dfffff
+428,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183713fffff
+429,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183709fffff
+430,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183733fffff
+431,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183741fffff
+432,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183401fffff
+433,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183415fffff
+434,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183405fffff
+435,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183439fffff
+436,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618340dfffff
+437,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183757fffff
+438,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618376bfffff
+439,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183729fffff
+440,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183705fffff
+441,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183767fffff
+442,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183457fffff
+443,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183429fffff
+444,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183407fffff
+445,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183555fffff
+446,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183431fffff
+447,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183409fffff
+448,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183467fffff
+449,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618341dfffff
+450,Corregimiento 80,80,Corregimiento de San Antonio de Prado,88661835c9fffff
+451,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183433fffff
+452,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183427fffff
+453,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183763fffff
+454,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183469fffff
+455,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618346dfffff
+456,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183723fffff
+457,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618342bfffff
+458,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183707fffff
+459,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618370dfffff
+460,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618354bfffff
+461,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618372bfffff
+462,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183551fffff
+463,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183745fffff
+464,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618340bfffff
+465,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618343dfffff
+466,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183421fffff
+467,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183761fffff
+468,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183445fffff
+469,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618346bfffff
+470,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183465fffff
+471,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183755fffff
+472,Corregimiento 80,80,Corregimiento de San Antonio de Prado,88661835cdfffff
+473,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183463fffff
+474,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183717fffff
+475,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618342dfffff
+476,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183739fffff
+477,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183715fffff
+478,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183423fffff
+479,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183435fffff
+480,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183461fffff
+481,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618371dfffff
+482,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183559fffff
+483,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183747fffff
+484,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618373dfffff
+485,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183557fffff
+486,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183743fffff
+487,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183455fffff
+488,Corregimiento 80,80,Corregimiento de San Antonio de Prado,886618370bfffff
+489,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183419fffff
+490,Corregimiento 80,80,Corregimiento de San Antonio de Prado,8866183403fffff
+491,,SN01,,886618364bfffff
+492,Comuna 15,15,Guayabal,886618368dfffff
+493,Comuna 15,15,Guayabal,8866183689fffff
+494,Comuna 15,15,Guayabal,886618368bfffff
+495,Comuna 15,15,Guayabal,88661836cbfffff
+496,Comuna 15,15,Guayabal,88661836c9fffff
+497,Comuna 15,15,Guayabal,88661836c3fffff
+498,Comuna 15,15,Guayabal,88661836c1fffff
+499,Comuna 15,15,Guayabal,88661836c7fffff
+500,Comuna 15,15,Guayabal,8866183681fffff
